@@ -7,28 +7,6 @@
 # Audio Classification using Deep Learning in Python
 ## Let's Get Started
 
-### Terminology to Know:
-
-- Audio Signal Processing
-- Basic ML Framework
-- Bit Depth
-- CNN
-- Data visualization
-- Digital Signal Processing
-- Fast Fourier Transform
-- Fliter Bank Coefficients
-- Fourier Transform
-- Hanning Window
-- Implementation of a ML model in python
-- Mel Filter Bank
-- Mel Cepstrum Coefficients
-- Preprocessing
-- RNN
-- Sampling and Sampling Frequency
-- Sensors
-- Short Time Fourier Transform
-- Spectrogram
-
 
 ### Questions to ponder:
 - What are different types of audio sources known?
@@ -40,7 +18,7 @@
 - How to find various properties of an audio file?
 - How to Extract Features from audio Files?
 
-so on..
+
 
 --- 
 
@@ -309,42 +287,6 @@ test
 
 ### It is understood that the MFCC and Spectrograms of the audio signals can also be used as image dataset and build CNN Models to classify the audio samples.
 
-Model comparision can be made between the current RNN model, transfer learning models and the CNN Models . An update on this is in progress :P
 
----
-
-# References
-
-https://www.nasa.gov/specials/X59/science-of-sound.html
-
-https://courses.lumenlearning.com/physics/chapter/17-2-speed-of-sound-frequency-and-wavelength/
-
-https://blog.soton.ac.uk/soundwaves/wave-basics/wavelength-frequency-relation/
-
-http://iamtechnical.com/wave-properties-amplitude-wavelength-and-phase-angle
-
-https://www.explainthatstuff.com/sound.html
-
-https://www.scienceguru.co.in/fileman/Uploads/PHY%2009/Sound/electrical%20guru%20noise%20level.png
-
-https://www.nasa.gov/specials/X59/science-of-sound.html
-
-http://www.libertycentral.org.uk/how-do-animals-hearing-compare-to-humans/
-
-https://www.britannica.com/technology/digital-sound-recording
-
-https://www.nasa.gov/specials/X59/science-of-sound.html
-
-https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
-
-https://en.wikipedia.org/wiki/Sampling_(signal_processing)
-
-https://www.youtube.com/watch?v=8VA73zW2DXY
-
-https://aavos.eu/glossary/fourier-transform/
-
-https://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html
-
-http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
 
 
